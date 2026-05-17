@@ -113,13 +113,15 @@ Me chamo Leandro Francisco, tenho 19 anos e moro em São Paulo. Sou estudante de
 
 ### 📊 Estatísticas
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFML&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeandroFML&show_icons=true&theme=tokyonight=t=pt-br"
   />
 
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeandroFML&layout=compact&theme=tokyonight"
+  />
 </p>
+
