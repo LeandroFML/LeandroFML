@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Leandro Francisco, tenho 19 anos e moro em São Paulo. Sou estudante de Gestão da Tecnologia da Informação e formado como Técnico em Informática. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções, buscando constantemente aprimorar meus conhecimentos em áreas como Java, automação, banco de dados e desenvolvimento web. Aqui no GitHub compartilho meus projetos, estudos e experiências voltadas ao universo da tecnologia.
+Me chamo Leandro Francisco, tenho 19 anos e moro em São Paulo. Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e formado como Técnico em Informática pelo CEAP. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções, buscando constantemente aprimorar meus conhecimentos em áreas como Java, automação, banco de dados e desenvolvimento web. Aqui no GitHub compartilho meus projetos, estudos e experiências voltadas ao universo da tecnologia.
 
 
 <p align="left"> 
